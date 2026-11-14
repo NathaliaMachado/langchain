@@ -31,3 +31,7 @@ O primeiro uso cria `bookbridge.db` e o índice FAISS; execute o notebook antes 
 ## Dados
 
 Os dados (catálogo, pedidos e políticas) são fictícios e foram criados para o projeto. As informações de câmbio e CEP são obtidas por meio de APIs públicas, com contingência identificada na saída.
+
+## Video de apresentação
+
+https://youtu.be/iaEVihjFj90
